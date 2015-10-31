@@ -188,10 +188,9 @@ margin: 0 auto;
 .daftar input {
 	height : 50px;
 	width : 800px;
-	align:center;
 	padding: 5px;
 	margin: 10px;
-     border : 0.5px solid #CDC9C9;
+  border : 1px solid #CDC9C9;
 }
 
 .daftar .submit{
