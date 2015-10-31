@@ -1,10 +1,9 @@
 @font-face {
-    font-family: Raleway;
-    src: url(font/Raleway-Regular.ttf);
+  font-family: Raleway;
+  src: url(font/Raleway-Regular.ttf);
 }
 div {
   display: block;
-
 }
 
 body {
@@ -15,8 +14,7 @@ body {
 
 header {
   height: 110px;
-  background: #e97f02;
-  /*margin: 0;*/
+  background: #e97f02;  
 }
 
 header p {
@@ -62,11 +60,11 @@ header p {
   margin-right: -145px;
 }
 
-.slideshow p{
- color : #fff;
+.slideshow p {
+  color : #fff;
   float: right;
   margin-top: 690px;
-margin-right: -230px;
+  margin-right: -230px;
 }
 
 .nav {
@@ -75,7 +73,7 @@ margin-right: -230px;
   clear: both;
 }
 
-.nav a{
+.nav a {
   text-decoration: none;
   font-size: 20px;
   padding: 50px 10px 0px 10px;
@@ -84,9 +82,9 @@ margin-right: -230px;
   color: #fff;
 }
 
-.nav a:hover{
-color: black;
-text-decoration:underline;
+.nav a:hover {
+  color: black;
+  text-decoration:underline;
 }
 
 .nav li {
@@ -104,19 +102,19 @@ text-decoration:underline;
   color: #fff;
 }
 
-.food-favorit{
+.food-favorit {
   margin:10px auto;
   text-align: center;
 }
 
 .kolom-favorit {
-  margin: 0 auto ;
+  margin: 0 auto;
   width: 350px;
   height: 250px;
   display: table;
   border-bottom: 2px dashed #e97f02;
   border-radius: 10px;
-  }
+}
 
 #coloumn1{
   height: auto;
@@ -129,34 +127,33 @@ text-decoration:underline;
 }
 
 .judul-food{
- float:left;
-margin: 0 10px;
-padding: 0;
-display:block;
-position:absolute;
+  float:left;
+  margin: 0 10px;
+  padding: 0;
+  display:block;
+  position:absolute;
 }
 
 .judul-food p, a {
-margin :0;
-padding:0;
-text-decoration:none;
+  margin :0;
+  padding:0;
+  text-decoration:none;
 }
 
 .rating p, #poin {
-float:right;
-font-size: 30px;
-margin: 0 5px;
-display:block;
-clear: both;
-text-align:center;
+  float:right;
+  font-size: 30px;
+  margin: 0 5px;
+  display:block;
+  clear: both;
+  text-align:center;
 }
 
 .rating p {
-font-size: 50px;
-margin-right: 15px;
-margin-top: 0;
+  font-size: 50px;
+  margin-right: 15px;
+  margin-top: 0;
 }
-
 
 .event {
   background: linear-gradient(
